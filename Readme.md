@@ -3,5 +3,5 @@
 ## ACTUALIZACIONES
 
 ### Arquitectura
-![Arquitectura del sistema](../registrosuper.png)
+![Arquitectura del sistema](imagenes/registrosuper.png)
 
