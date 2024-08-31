@@ -3,5 +3,5 @@
 ## ACTUALIZACIONES
 
 ### Arquitectura
-![Arquitectura del sistema](../registrosuper.drawio.png)
+![Arquitectura del sistema](../registrosuper.png)
 
